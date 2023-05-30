@@ -46,7 +46,7 @@ This was established by grouping the foreign & domestic gross revenues by year
 
 
 ## Conclusion
-Through this analysis we've established that the top rated genres include Drama, Comedy and Action. We've established the highest grossing studios. We've also seen that the the foreign market has much higher revenues with marked growth over the years while domestic revenues are lower and steady.
+Through the analysis we've established that the top rated genres include Drama, Comedy and Action. We've established the highest grossing studios. We've also seen that the the foreign market has much higher revenues with marked growth over the years while domestic revenues are lower and steady.
 
 
 ## Recommendations
